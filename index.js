@@ -29,6 +29,10 @@ let questionsList = [
   {
     question: "Who is my favorite football player? ",
     answer: "Messi"
+  },
+  {
+    question: "What is my favorite programming language? ",
+    answer: "JavaScript"
   }
 ]
 
