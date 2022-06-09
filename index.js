@@ -33,6 +33,18 @@ let questionsList = [
   {
     question: "What is my favorite programming language? ",
     answer: "JavaScript"
+  },
+  {
+    question: "What is my favourite color ? ",
+    answer: "Black"
+  },
+  {
+    question: "Which football team do i support ? ",
+    answer: "Barcelona"
+  },
+  {
+    question: "And finally, What's my favorite Anime ? ",
+    answer: "Death Note"
   }
 ]
 
@@ -40,7 +52,7 @@ let questionsList = [
 // Highscore
 let highScore = {
     name: 'Pratik',
-    score: 40
+    score: 60
 }
 
 
