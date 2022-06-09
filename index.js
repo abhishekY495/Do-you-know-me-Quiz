@@ -43,6 +43,10 @@ let questionsList = [
     answer: "Barcelona"
   },
   {
+    question: "Which code editor do i use - VScode or Pycharm ? ",
+    answer: "VScode"
+  },
+  {
     question: "And finally, What's my favorite Anime ? ",
     answer: "Death Note"
   }
