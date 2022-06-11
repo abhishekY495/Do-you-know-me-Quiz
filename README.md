@@ -3,7 +3,7 @@
 
 To play just enter your name.
 
-- There are **6** questions.
+- There are **10** questions.
 - Each correct answer gets you **10** points.
 
 Play and see if you can beat the Highscore.
