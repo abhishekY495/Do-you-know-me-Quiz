@@ -31,7 +31,7 @@ let questionsList = [
     answer: "Barcelona"
   },
   {
-    question: "Which code editor do i use - VScode or Pycharm ? ",
+    question: "And finally, Which code editor do i use - VScode or Pycharm ? ",
     answer: "VScode"
   }
 ]
@@ -40,7 +40,7 @@ let questionsList = [
 // Highscore
 let highScore = {
     name: 'Pratik',
-    score: 60
+    score: 50
 }
 
 
