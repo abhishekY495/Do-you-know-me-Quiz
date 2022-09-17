@@ -15,14 +15,6 @@ let questionsList = [
     answer: "Spiderman"
   },
   {
-    question: "What is the name of my favorite Rock band? ",
-    answer: "Royal Blood"
-  },
-  {
-    question: "Where do i live? ",
-    answer: "Thane"
-  },
-  {
     question: "What is my favorite sport? ",
     answer: "Football"
   },
@@ -35,20 +27,12 @@ let questionsList = [
     answer: "JavaScript"
   },
   {
-    question: "What is my favourite color ? ",
-    answer: "Black"
-  },
-  {
     question: "Which football team do i support ? ",
     answer: "Barcelona"
   },
   {
     question: "Which code editor do i use - VScode or Pycharm ? ",
     answer: "VScode"
-  },
-  {
-    question: "And finally, What's my favorite Anime ? ",
-    answer: "Death Note"
   }
 ]
 
